@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 Goodday commander
-=======
 아무거나 적을게요
 Hello? index
->>>>>>> hotfix
